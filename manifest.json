@@ -1,0 +1,12 @@
+{
+  "name": "Knowledge Dungeon",
+  "short_name": "Knowledge Dungeon",
+  "description": "Knowledge Dungeon — a gamified 453-tome learning system.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05070a",
+  "theme_color": "#05070a",
+  "prefer_related_applications": false
+}
