@@ -1,4 +1,4 @@
-const CACHE_NAME = "knowledge-dungeon-v1";
+const CACHE_NAME = "knowledge-dungeon-v2";
 
 const APP_FILES = [
   "./",
